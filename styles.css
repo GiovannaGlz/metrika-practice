@@ -51,6 +51,9 @@ div{
     border: 1px;
 }
 
+a{
+    text-decoration-line: blink;
+}
 #about-us{
     background-color: #50b2a2;
 }
